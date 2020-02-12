@@ -14,10 +14,20 @@
 <p>🔸 NodeJS 10.16.3</p>
 <p>🔹 GitHub Desktop : <a href="https://desktop.github.com/">Github Desktop</a>.</p>
 <p>🔸 Laravel 5 <a href="https://laravel.com/">Laravel Documentation</a></p>
-
 <h1>🟣 Exercice</h1>
 <p>Lien de l'<a href="https://docs.google.com/presentation/d/1-4eLLvtsLMdsqpgfXV1n_2BScdg9oUHxIQBZohzSTr0/edit#slide=id.g6eb496a5a0_0_0">exercice sur Laravel 5</a>.</p>
-
+<h3>Work in progress :</h3>
+<p>Suppression d'un contact.</p>
+<p>Modification d'un contact (validation, modal d'édition prête).</p>
+<p>Middleware</p>
+<h3>Complete :</h3>
+<p>Setup Laravel 5</p>
+<p>Create migrations</p>
+<p>Optional : custom CSS</p>
+<p>Create <b>ContactController</b></p>
+<p>Complete <b>HomeController</b></p>
+<p>Create model <b>Contact</b></p>
+<p>Complete <b>home.blade</b></p>
 <h1>Legal</h1>
 <h3>License</h3>
 <p><b>laravel5</b> - <i>School project</i></p>
@@ -26,4 +36,4 @@
 <p>This program Is distributed In the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty Of MERCHANTABILITY Or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License For more details.</p>
 <p>You should have received a copy Of the GNU General Public License along with this program.</p> 
 <p>If Not, see <a href="http://www.gnu.org/licenses/">GNU - Licenses</a>.</p>
- <h6>Laravel 5 - Framework</h6>
+<h6>Laravel 5 - Framework</h6>
