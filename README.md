@@ -16,7 +16,7 @@
 <p>🔸 Laravel 5 <a href="https://laravel.com/">Laravel Documentation</a></p>
 
 <h1>🟣 Exercice</h1>
-<p>Lien de l'<a href="https://docs.google.com/presentation/d/1-4eLLvtsLMdsqpgfXV1n_2BScdg9oUHxIQBZohzSTr0/edit#slide=id.g6eb496a5a0_0_0">exercice sur Laravel 5</a></p>
+<p>Lien de l'<a href="https://docs.google.com/presentation/d/1-4eLLvtsLMdsqpgfXV1n_2BScdg9oUHxIQBZohzSTr0/edit#slide=id.g6eb496a5a0_0_0">exercice sur Laravel 5</a>.</p>
 
 <h1>Legal</h1>
 <h3>License</h3>
